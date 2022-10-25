@@ -7,3 +7,9 @@
 - title: Bugcrowd
   url: https://bugcrowd.com/b2g
   icon: fa fa-bug
+- title: Hackerone
+  url: https://hackerone.com/b2g
+  icon: fa fa-bug
+- title: Intigriti
+  url: https://app.intigriti.com/researcher/profile/b2g
+  icon: fa fa-bug
