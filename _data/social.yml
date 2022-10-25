@@ -6,4 +6,4 @@
   icon: fab fa-github
 - title: Bugcrowd
   url: https://bugcrowd.com/b2g
-  icon: <img src="https://raw.githubusercontent.com/betillogalvanfbc/iam/master/_data/bugcrowd-red.svg" width="100" height="100"/>
+  icon: fab fa-bug
